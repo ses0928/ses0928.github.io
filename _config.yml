@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a newbie on github.io"
   location         : "Seoul, South Korea"
-  email            : "fluidam23@hanmail.net"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
