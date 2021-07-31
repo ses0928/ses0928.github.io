@@ -5,5 +5,4 @@ categories: blog
 tags: jekyll
 ---
 
-# title
 This is the first post of rau.
