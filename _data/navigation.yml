@@ -4,7 +4,7 @@ main:
     #url: /docs/_docs/01-quick-start-guide.md/
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "year archive"
+  - title: "Year archive"
     url: /year-archive/
   - title: "Collection archive"
     url: /collection-archive/
