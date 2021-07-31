@@ -3,10 +3,10 @@ main:
   - title: "Quick-Start Guide"
     url: https://ses0928.github.io/docs/_docs/01-quick-start-guide.md/
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "Year archive"
     url: /year-archive/
   - title: "Categories"
     url: /cartegories/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Posts"
+    url: /_posts/
